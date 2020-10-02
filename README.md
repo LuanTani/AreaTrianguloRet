@@ -10,3 +10,11 @@ Base..: 3
 Altura: 5
 
 Área..: 7.5
+
+**Como Executar**
+
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run 
+```
